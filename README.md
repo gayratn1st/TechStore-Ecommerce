@@ -1,2 +1,2 @@
 # TechStore-Ecommerce
-This is Ecommerce for Database [rpject
+This is Ecommerce for Database project
